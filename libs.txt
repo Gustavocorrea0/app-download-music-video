@@ -1,0 +1,2 @@
+icons: https://www.flaticon.com/br/icon-fonts-mas-baixados?weight=solid&type=uicon&k=1731769424862&log-in=google
+pip install customtkinter
