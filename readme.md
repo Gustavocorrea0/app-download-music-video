@@ -7,9 +7,6 @@
 - 1 - Download Music 
 - 2 - Download Video
 
-### 📷 Project images
-<img src="./project-image/first-screen.png" alt="Alt text" width="300"/><br>
-
 ### 🖥️ Technologies:
 ##### Backend: [Python] 
 
@@ -19,6 +16,9 @@
 
 ### 🔨 Tools:
 ##### IDEA 1: [VS Code]
+
+### 📷 Project images
+<img src="./project-image/first-screen.png" alt="Alt text" width="300"/><br>
 
 [Python]: <https://www.python.org/>
 [VS Code]: <https://code.visualstudio.com/>
