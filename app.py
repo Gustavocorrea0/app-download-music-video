@@ -72,8 +72,8 @@ def def_start_download_video():
 
     messagebox.showinfo("Information", "download completed")
 
-label_title = tk.Label(first_screen, text= "G.A. - Music & Video", font=("Arial", 16, "bold"), bg="#000000", fg="#FFFFFF")
-label_title.place(x=125, y=20)
+label_title = tk.Label(first_screen, text= "Download Video & Music", font=("Arial", 16, "bold"), bg="#000000", fg="#FFFFFF")
+label_title.place(x=100, y=20)
 
 label_url = tk.Label(first_screen, text= "URL:", font=("Arial", 12, "bold"), bg="#000000", fg="#FFFFFF")
 label_url.place(x=10, y=76)
